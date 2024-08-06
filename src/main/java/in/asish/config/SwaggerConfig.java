@@ -1,4 +1,4 @@
-package in.asih.config;
+package in.asish.config;
 
 import org.springframework.context.annotation.Configuration;
 
